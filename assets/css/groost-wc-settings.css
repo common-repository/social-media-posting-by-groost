@@ -1,0 +1,7 @@
+#groost_change_fb_page {
+    display: none;
+}
+
+p#groost-wc-change_page_link {
+    cursor: pointer;
+}
